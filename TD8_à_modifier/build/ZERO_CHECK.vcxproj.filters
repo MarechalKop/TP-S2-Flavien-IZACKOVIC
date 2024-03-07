@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\flavi\Desktop\IMAC1\Cours\TP - P&amp;A\S2\S2-TD1\TD8_à_modifier\build\CMakeFiles\a4a580671a5f43d918f36cb1ad6050c3\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{645CE910-C58D-35E7-8E4A-99D31303E488}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
