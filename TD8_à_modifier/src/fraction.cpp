@@ -86,6 +86,9 @@ Fraction operator+(Fraction f1, Fraction const& f2){
     return f1;
 }
 
+
+
+
 Fraction Fraction::operator-=(Fraction const& f2) {
 return simplify({
     this->numerator * f2.denominator - f2.numerator * this->denominator,
@@ -98,6 +101,9 @@ Fraction operator-(Fraction f1, Fraction const& f2){
     return f1;
 }
 
+
+
+
 Fraction Fraction::operator*=(Fraction const& f2) {
 return simplify({
     this->numerator * f2.numerator,
@@ -109,6 +115,8 @@ Fraction operator*(Fraction f1, Fraction const& f2){
     f1*=f2;
     return f1;
 }
+
+
 
 Fraction Fraction::operator/=(Fraction const& f2) {
 return simplify({
